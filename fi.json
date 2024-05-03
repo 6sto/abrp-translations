@@ -434,6 +434,7 @@
   "date": "Päivämäärä",
   "automatic_settings": "Automaattiset asetukset",
   "automatic_settings_description": "Käytä reaaliaikaista akun varausta, kalibroitua viitekulutusta, säätä ja liikennettä.",
+  "automatic_settings_notlm_description": "Käytä reaaliaikaisia ​​sää- ja liikennetietoja sekä oletusarvoja viitekulutukselle ja akun lataustasolle.",  
   "realtime_weather": "Reaaliaikainen sää",
   "realtime_weather_description": "Käytä reaaliaikaisia ​​lämpötila- ja säätietoja.",
   "seasonal_weather": "Kauden sää",
